@@ -9,11 +9,6 @@
 
 Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width="40"> 
 
-
-
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/AlarmedRepentantFlee-small.gif" />
-
-
 :boom: **About me:** :boom:
 
 
