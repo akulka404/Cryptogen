@@ -6,3 +6,5 @@ clone the repo using
 2. I have included the requirements.txt file in the folder.
 3. Install the required packages using <code> pip3 install -r /path/to/requirements.txt </code>
 4. The .whl file for cryptogen is also uploaded in the same directory so you can use: <code> pip3 install cryptogen-0.0.1-py3-none-any.whl </code>
+5. On installing all the required pre-requisites run <code> python3 gui.py </code>
+6. There you go, you've got your algorithms working!
