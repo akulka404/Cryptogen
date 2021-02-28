@@ -5,4 +5,4 @@ clone the repo using
 1. Change the path to Cryptogen_UI folder
 2. I have included the requirements.txt file in the folder.
 3. Install the required packages using <code> pip3 install -r /path/to/requirements.txt </code>
-4. The .whl file for cryptogen is also uploaded in the same directory so you can use: pip3 install name_of_the_file.whl
+4. The .whl file for cryptogen is also uploaded in the same directory so you can use: pip3 install cryptogen-0.0.1-py3-none-any.whl
