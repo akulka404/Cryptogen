@@ -1,0 +1,14 @@
+cryptogen==0.0.1
+helpdev==0.7.1
+importlib-metadata==3.7.0
+numpy==1.20.1
+opencv-contrib-python==4.5.1.48
+PyQt5==5.15.3
+PyQt5-Qt==5.15.2
+PyQt5-sip==12.8.1
+PyQtWebEngine==5.15.3
+PyQtWebEngine-Qt==5.15.2
+qrainbowstyle==0.7
+QtPy==1.9.0
+typing-extensions==3.7.4.3
+zipp==3.4.0
