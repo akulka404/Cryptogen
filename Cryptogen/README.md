@@ -7,13 +7,15 @@
 
 
 
-Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width="40"> 
+Hi, I'm Cryptogen! <img align="center" src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width="40"> 
+<br>
+I'm a Encryption and Decryption library based on algorihtms from reversible data hiding techniques.
 
 :boom: **About me:** :boom:
 
 
-- :bomb: Junior Software Engineer at [Trident Labs!](https://github.com/trident-labs-auv)
-- :guardsman: Backend Developer at [CSI VIT Pune!](https://github.com/csi-vitpune)
+- :bomb: Written using:  <code><img height="30" src="https://www.python.org/static/community_logos/python-logo-generic.svg"></code>
+- :guardsman: Tools used: <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code><code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 - :speech_balloon: Let's have a chat: :crystal_ball:[LinkedIn](https://www.linkedin.com/in/aniruddha-kulkarni1911/) :clubs:[Instagram](https://www.instagram.com/battcheeks/) :gem:[Mail](mailto:aniruddha.k1911@gmail.com)
 - :crown:Check out :information_desk_person:[Cryptogen!](https://pypi.org/project/cryptogen/) My OpenSource Python library based on reversible data hiding algorithms.
 - ✨ I'm involved in projects based on Computer Vision and Image Processing!
@@ -31,7 +33,7 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 ### Languages:
 
 
-<code><img height="30" src="https://www.python.org/static/community_logos/python-logo-generic.svg"></code>
+
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYr8dpctWT8lQRZvwhaussxjRMg8Ao8HGJA&usqp=CAU"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></code>
 <code><img height="30" src="https://www.r-project.org/logo/Rlogo.svg"></code>
@@ -40,8 +42,8 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 ### Tools I use:
 
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+
+
 <code><img height="30" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg"></code>
